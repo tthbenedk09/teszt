@@ -1,1 +1,3 @@
 # teszt
+
+Readme.md szerkeztése
